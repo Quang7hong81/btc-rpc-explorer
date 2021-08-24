@@ -140,3 +140,4 @@ If you get value from this project, please consider supporting my continued work
 [npm-dl-img]: http://img.shields.io/npm/dm/btc-rpc-explorer.svg?style=flat
 [npm-dl-url]: https://npmcharts.com/compare/btc-rpc-explorer?minimal=true
 
+# Assign: Thong Ngo
