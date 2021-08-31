@@ -141,3 +141,4 @@ If you get value from this project, please consider supporting my continued work
 [npm-dl-url]: https://npmcharts.com/compare/btc-rpc-explorer?minimal=true
 
 # Assign: Thong Ngo
+  E-mail: quangthong1011@gmail.com
